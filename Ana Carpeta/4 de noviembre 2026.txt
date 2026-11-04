@@ -1,0 +1,6 @@
+En la clase de hot, 4 de noviembre se esta realizando un trabajo con un documento compartido, usando la libreria pandas y numpy. Se vio la cantidad de cosas que se le puede aplicar a una lista .csv.
+Usamos data frame, que es la tabla que se uso, con carrera, notas, hora de estudio.
+Tambien se usaron diferentes codigos como para conocer informacion acerca del documento (shape, head, info, describe)
+Se revisaron los datos duplicados y se rectificaron y eliminaron dependiendo de cual sea..
+
+Ya luego se mostraron diferentes librerias que pueden ser utilizadas en nuestro proyecto final.
