@@ -1,0 +1,4 @@
+Hoy 11 de octubre se reviso la libreria llamada Maplotilb, esta es la libreria mas usada en Python para graficar diversas cosas. Durante la clase se hicieron ejercicios de graficas comunes con el comando plt plot().
+Las barras utilizadas son importantes al momento de comparar cantidades, se hace con el comando ptl.bar(), tambien se vio el diagrama torta, y diferentes comandos para asignar nombre a todo con el comando plt.title, se pueden poner colores o hasta incluso cambiar la forma.
+
+Al finalizar se dio un vistazo a los temas que saldran en el parcial final, y que se tendra que hacer. Esto usando codigos ya aprendidos en un nuevo documento.
