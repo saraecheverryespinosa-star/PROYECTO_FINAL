@@ -1,0 +1,12 @@
+NOMBRE: Heart Disease Cleveland
+
+¿QUÉ ES?:Es un conjunto de datos basado en el subconjunto de Cleveland de enfermedades cardíacas, esta creado para tareas de clasificación orientadas a predecir si un paciente presenta o no una enfermedad cardíaca (teniendo 0=no presencia 1=presencia) a partir de 13 atributos clínicos y demográficos (5 numéricos y 8 nominales, como edad, sexo, tipo de dolor torácico "cp" presión arterial en reposo "trestbps", colesterol sérico "chol", glucemia en ayunas "fbs, electrocardiograma en reposo "restecg", frecuencia cardíaca máxima alcanzada "thalach", angina inducida por ejercicio "exang", depresión del ST inducida por ejercicio "oldpeak", pendiente del segmento ST "slope", número de vasos principales "ca" y talasemia "thal"). En la descripción en Kaggle indica que contiene en total 303 registros de pacientes.
+
+¿CÓMO SE OBTUVIERON LOS DATOS?: Proviene del conjunto de datos de Cleveland de enfermedades cardíacas del repositorio UCI, sin embargo el enlace se saco de kaggle. 
+
+FUENTE DE DESCARGA: https://www.kaggle.com/datasets/ritwikb3/heart-disease-cleveland?resource=download
+
+NUMERO DE FILAS Y COLUMNAS: Filas: 303 Columnas: 14
+
+FORMATO DEL ARCHIVO: Es un archivo .csv
+

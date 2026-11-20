@@ -1,0 +1,11 @@
+NOMBRE: Medical Device Maintenance & Risk Prediction Dataset / Conjunto de datos sobre mantenimiento y predicción de riesgos en dispositivos médicos
+
+¿QUÉ ES?: Este es un conjunto de datos procesado y estructurado a nivel de los equipos individuales diseñado con el fin de evaluar el desempeño operativo, los costos de mantenimiento y aproximar el nivel de riesgo de la falla de dispositivos médicos hospitalarios. Cada fila representa un dispositivo único identificado por su código (Device_ID), incluyendo información técnica y geográfica como tipo de equipo, fabricante, modelo, país, fecha de compra y antigüedad, historial de mantenimiento y fallas tambien costos, tiempo de inactividad, frecuencia de mantenimiento, conteo de fallas y reportes textuales de diagnóstico, métricas de ingeniería de confiabilidad calculadas usando horas estimadas de operación, tiempo medio entre fallos MTBF, costo por hora y proporción de vida útil consumida y una etiqueta de clasificación multiclase (Risk_Class y Risk_Class_Label: Low Risk = 0, Medium Risk = 1, High Risk = 2). Su estructura limpia (sin valores nulos) y la combinación de variables numéricas, categóricas y de texto la hacen adecuada para tareas de aprendizaje automático, mantenimiento predictivo y análisis de costos operativos.
+
+¿CÓMO SE OBTUVIERON LOS DATOS?: Se utilizo kaggle, la palabra a buscar fue "Biomedic" y este fue uno de los principales archivos.
+
+FUENTE DE DESCARGA: https://www.kaggle.com/datasets/ebrahimelsadic/biomedical-equipment-management-system-dataset
+
+NÚMERO DE FILAS Y COLUMNAS: Filas: 4149 Columnas: 20
+
+FORMATO DEL ARCHIVO: Es un archivo .csv  
